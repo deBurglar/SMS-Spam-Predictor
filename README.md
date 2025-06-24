@@ -2,7 +2,7 @@
 
 A machine learning-based web application that classifies SMS messages as **Spam** or **Ham (Not Spam)** using NLP and classification algorithms.
 
-The dataset is a highly imbalanced one with 
+The dataset is a highly imbalanced one with the percentage of HAM(non-spam)messages being 85%.
 
 ![Spam Prediction Banner](images/freq.png)
 
